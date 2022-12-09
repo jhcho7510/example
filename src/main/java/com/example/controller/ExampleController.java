@@ -14,4 +14,5 @@ public class ExampleController {
     private String m1; // 마스터브렌치에서 추가함 -1
     private String m2; // 마스터브렌치에서 추가함 -2
     private String b1; // 브렌치따서 내용변경함 - 1
+    private String b2; // 브렌치따서 내용변경함 - 2
 }
