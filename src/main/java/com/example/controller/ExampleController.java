@@ -11,4 +11,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/dodorian")
 public class ExampleController {
     private String p1;
+    private String b1; // 브렌치따서 내용변경함 - 1
 }
