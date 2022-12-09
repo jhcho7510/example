@@ -11,4 +11,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/dodorian")
 public class ExampleController {
     private String p1;
+    private String m1; // 마스터브렌치에서 추가함 -1
 }
